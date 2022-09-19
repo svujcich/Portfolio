@@ -36,8 +36,9 @@ section h2 {
 }
 
 .bg-dark {
-    background-color: #2f3542 !important;
+    background-color: #41415c !important;
 }
+
 
 .btn-social {
     width: 3.25rem;
@@ -110,6 +111,11 @@ header.masthead h2 {
     max-width: 25rem;
     margin-bottom: 15px;
 }
+/* body {
+   margin: 5px;
+   padding-bottom: 70px;
+   background-color: #bdbdcc;
+} */
 
 .portfolio .portfolio-item .portfolio-item-caption {
     -webkit-transition: all ease 0.5s;
@@ -198,12 +204,12 @@ header.masthead h2 {
 .footer {
     padding-top: 5rem;
     padding-bottom: 5rem;
-    background-color: #1a252f;
+    background-color: #41415c !important;
     color: #fff;
 }
 
 .copyright {
-    background-color: #1a252f;
+    background-color: #41415c !important;
 }
 
 a:focus,
@@ -227,7 +233,7 @@ a:active {
 }
 
 .bg-primary {
-    background-color: #30336b !important;
+    background-color: #5d628d !important;
 }
 
 .bg-secondary {
