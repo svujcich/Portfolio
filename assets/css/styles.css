@@ -111,11 +111,11 @@ header.masthead h2 {
     max-width: 25rem;
     margin-bottom: 15px;
 }
-/* body {
+body {
    margin: 5px;
-   padding-bottom: 70px;
+   /* padding-bottom: 70px; */
    background-color: #bdbdcc;
-} */
+}
 
 .portfolio .portfolio-item .portfolio-item-caption {
     -webkit-transition: all ease 0.5s;
